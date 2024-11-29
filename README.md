@@ -1,19 +1,15 @@
 # book-review
 
-## Project setup
-```
-npm install
-```
+## Como rodar o projeto
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. Clone o repositório:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. Instale as dependências:
+   ```bash
+   npm install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run serve
